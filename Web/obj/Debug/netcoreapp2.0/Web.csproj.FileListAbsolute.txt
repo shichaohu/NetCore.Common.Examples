@@ -1,0 +1,15 @@
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\Web.deps.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\Web.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\Web.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\Common.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\IBusinesServices.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\Common.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\IBusinesServices.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.csprojResolveAssemblyReference.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.pdb

@@ -3513,11 +3513,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\NetCore.Common.Examples\\Common\\Common.csproj",
+      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\NetCore.Common.Examples\\Common\\Common.csproj",
+      "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\NetCore.Common.Examples\\Common\\obj\\",
+      "outputPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

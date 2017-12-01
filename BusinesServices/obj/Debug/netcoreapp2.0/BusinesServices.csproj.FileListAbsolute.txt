@@ -9,3 +9,16 @@ E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\BusinesServices\obj\Debug\netcoreapp2.0\BusinesServices.pdb
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\IBusinesServices.dll
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\IBusinesServices.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\BusinesServices.deps.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\BusinesServices.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\BusinesServices.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\Common.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\IBusinesServices.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\IBusinesServices.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\bin\Debug\netcoreapp2.0\Common.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\obj\Debug\netcoreapp2.0\BusinesServices.csprojResolveAssemblyReference.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\obj\Debug\netcoreapp2.0\BusinesServices.csproj.CoreCompileInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\obj\Debug\netcoreapp2.0\BusinesServices.AssemblyInfoInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\obj\Debug\netcoreapp2.0\BusinesServices.AssemblyInfo.cs
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\obj\Debug\netcoreapp2.0\BusinesServices.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\BusinesServices\obj\Debug\netcoreapp2.0\BusinesServices.pdb
