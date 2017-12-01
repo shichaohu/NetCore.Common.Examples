@@ -3,6 +3,7 @@ using System;
 
 namespace Common.Aop.Attributes
 {
+    [AttributeUsage(AttributeTargets.Class|AttributeTargets.Method|AttributeTargets.Interface,AllowMultiple =false,Inherited =false)]
     public class BaseAttribute : Attribute
     {
         /// <summary>

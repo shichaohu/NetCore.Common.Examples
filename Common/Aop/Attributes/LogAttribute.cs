@@ -9,12 +9,12 @@ namespace Common.Aop.Attributes
     {
         public override void OnExcuting(IInvocation invocation)
         {
-            //"日志执行前"
+            invocation.ReturnValue = "你写了日志";
         }
 
         public override void OnExited(IInvocation invocation)
         {
-            //"日志执行后"
+
         }
     }
 }

@@ -3,6 +3,7 @@ using System;
 
 namespace IBusinesServices
 {
+    [Log]
     public interface IExampleService
     {
         [Log]

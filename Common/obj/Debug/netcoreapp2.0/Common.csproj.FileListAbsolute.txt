@@ -15,3 +15,4 @@ E:\project\本地项目\GitHub\.NetCore.Common.Examples\Common\obj\Debug\netcore
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\Common\obj\Debug\netcoreapp2.0\Common.dll
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\Common\obj\Debug\netcoreapp2.0\Common.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Common\obj\Debug\netcoreapp2.0\Common.csprojResolveAssemblyReference.cache

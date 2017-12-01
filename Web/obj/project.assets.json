@@ -4817,6 +4817,19 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
+      "BusinesServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "IBusinesServices": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinesServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinesServices.dll": {}
+        }
+      },
       "Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -12721,6 +12734,11 @@
         "windowsazure.storage.nuspec"
       ]
     },
+    "BusinesServices/1.0.0": {
+      "type": "project",
+      "path": "../BusinesServices/BusinesServices.csproj",
+      "msbuildProject": "../BusinesServices/BusinesServices.csproj"
+    },
     "Common/1.0.0": {
       "type": "project",
       "path": "../Common/Common.csproj",
@@ -12734,6 +12752,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "BusinesServices >= 1.0.0",
       "Common >= 1.0.0",
       "IBusinesServices >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.3",
@@ -12773,6 +12792,9 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\BusinesServices.csproj": {
+              "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\BusinesServices.csproj"
+            },
             "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\IBusinesServices\\IBusinesServices.csproj": {
               "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\IBusinesServices\\IBusinesServices.csproj"
             },

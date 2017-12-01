@@ -13,3 +13,5 @@ E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.dll
 E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\obj\Debug\netcoreapp2.0\Web.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\BusinesServices.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\Web\bin\Debug\netcoreapp2.0\BusinesServices.pdb

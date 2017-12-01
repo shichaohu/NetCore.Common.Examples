@@ -1,6 +1,7 @@
 ﻿using Castle.DynamicProxy;
 using Common.Aop.Attributes;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
@@ -8,33 +9,49 @@ namespace Common.Aop
 {
     internal class CustomerInterceptor : IInterceptor
     {
-        /// <summary>
-        /// 拦截方法
-        /// </summary>
-        /// <param name="invocation">包含被拦截方法的信息</param>
         public void Intercept(IInvocation invocation)
         {
-            var attrs = invocation.GetConcreteMethodInvocationTarget().GetCustomAttributes(typeof(BaseAttribute), true);
-            if (attrs.Length == 0)
+            var attributes1 = invocation.GetConcreteMethodInvocationTarget().GetCustomAttributes(typeof(BaseAttribute), true);
+            var attributes2 = invocation.GetConcreteMethodInvocationTarget().DeclaringType.GetCustomAttributes(typeof(BaseAttribute), true);
+            var attributes3 = invocation.GetConcreteMethod().GetCustomAttributes(typeof(BaseAttribute), true);
+            var attributes4 = invocation.GetConcreteMethod().DeclaringType.GetCustomAttributes(typeof(BaseAttribute), true);
+
+            var attributes = new object[attributes1.Length + attributes2.Length + attributes3.Length + attributes4.Length];
+            attributes1.CopyTo(attributes, 0);
+            attributes2.CopyTo(attributes, attributes1.Length);
+            attributes3.CopyTo(attributes, attributes1.Length + attributes2.Length);
+            attributes4.CopyTo(attributes, attributes1.Length + attributes2.Length + attributes3.Length);
+
+            var attrList = new ArrayList();
+            foreach (var attr in attributes)
+            {
+                if (!attrList.Contains(attr))
+                    attrList.Add(attr);
+            }
+
+            if (attributes.Length == 0)
             {
                 invocation.Proceed();
                 return;
             }
 
-            for(int i=0;i<attrs.Length;i++)
-            {
-                ((BaseAttribute)attrs[i]).OnExcuting(invocation);
-            }
-            invocation.Proceed();
-            for (int i = attrs.Length-1; i >=0; i--)
-            {
-                ((BaseAttribute)attrs[i]).OnExited(invocation);
-            }
+            ExecIntercept(invocation, attrList);
         }
 
-        public void AttributeRecursionIntercept(IInvocation invocation, object[] attrs, int i = 0)
+        public void ExecIntercept(IInvocation invocation, ArrayList attributes, int i = 0)
         {
-            
+            var attribute = (BaseAttribute)attributes[i];
+            attribute.OnExcuting(invocation);
+
+            if (invocation.ReturnValue != null) return;
+            if (++i < attributes.Count)
+                ExecIntercept(invocation, attributes, i);
+
+            if (invocation.ReturnValue == null && i >= attributes.Count)
+                invocation.Proceed();
+
+
+            attribute.OnExited(invocation);
         }
     }
 }
