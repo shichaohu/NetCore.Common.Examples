@@ -1,0 +1,15 @@
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\NetCore.Common.Examples.deps.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\NetCore.Common.Examples.runtimeconfig.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\NetCore.Common.Examples.runtimeconfig.dev.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\NetCore.Common.Examples.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\NetCore.Common.Examples.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\obj\Debug\netcoreapp2.0\NetCore.Common.Examples.csprojResolveAssemblyReference.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\obj\Debug\netcoreapp2.0\NetCore.Common.Examples.csproj.CoreCompileInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\obj\Debug\netcoreapp2.0\NetCore.Common.Examples.AssemblyInfoInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\obj\Debug\netcoreapp2.0\NetCore.Common.Examples.AssemblyInfo.cs
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\obj\Debug\netcoreapp2.0\NetCore.Common.Examples.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\obj\Debug\netcoreapp2.0\NetCore.Common.Examples.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\Common.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\IBusinesServices.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\Common.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\NetCore.Common.Examples\NetCore.Common.Examples\bin\Debug\netcoreapp2.0\IBusinesServices.pdb
