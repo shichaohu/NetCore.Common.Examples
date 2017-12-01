@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  netcore.common.examples:
+    image: netcore.common.examples
+    build:
+      context: ./NetCore.Common.Examples
+      dockerfile: Dockerfile
