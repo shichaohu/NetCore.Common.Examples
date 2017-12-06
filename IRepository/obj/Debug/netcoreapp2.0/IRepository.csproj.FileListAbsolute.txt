@@ -1,0 +1,9 @@
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\bin\Debug\netcoreapp2.0\IRepository.deps.json
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\bin\Debug\netcoreapp2.0\IRepository.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\bin\Debug\netcoreapp2.0\IRepository.pdb
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\obj\Debug\netcoreapp2.0\IRepository.csprojResolveAssemblyReference.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\obj\Debug\netcoreapp2.0\IRepository.csproj.CoreCompileInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\obj\Debug\netcoreapp2.0\IRepository.AssemblyInfoInputs.cache
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\obj\Debug\netcoreapp2.0\IRepository.AssemblyInfo.cs
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\obj\Debug\netcoreapp2.0\IRepository.dll
+E:\project\本地项目\GitHub\.NetCore.Common.Examples\IRepository\obj\Debug\netcoreapp2.0\IRepository.pdb
