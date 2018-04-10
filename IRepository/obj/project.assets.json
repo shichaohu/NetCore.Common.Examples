@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\IRepository\\IRepository.csproj",
+      "projectUniqueName": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\IRepository\\IRepository.csproj",
       "projectName": "IRepository",
-      "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\IRepository\\IRepository.csproj",
+      "projectPath": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\IRepository\\IRepository.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\IRepository\\obj\\",
+      "outputPath": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\IRepository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -691,7 +691,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "http://192.168.0.217/nuget": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

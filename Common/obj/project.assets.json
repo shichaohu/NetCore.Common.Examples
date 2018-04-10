@@ -4785,11 +4785,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\Common\\Common.csproj",
+      "projectUniqueName": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\Common\\Common.csproj",
+      "projectPath": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\Common\\obj\\",
+      "outputPath": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4803,7 +4803,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "http://192.168.0.217/nuget": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

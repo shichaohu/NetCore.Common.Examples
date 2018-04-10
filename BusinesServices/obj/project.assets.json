@@ -4821,11 +4821,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\BusinesServices.csproj",
+      "projectUniqueName": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\BusinesServices.csproj",
       "projectName": "BusinesServices",
-      "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\BusinesServices.csproj",
+      "projectPath": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\BusinesServices.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\obj\\",
+      "outputPath": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\BusinesServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4839,13 +4839,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "http://192.168.0.217/nuget": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\IBusinesServices\\IBusinesServices.csproj": {
-              "projectPath": "E:\\project\\本地项目\\GitHub\\.NetCore.Common.Examples\\IBusinesServices\\IBusinesServices.csproj"
+            "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\IBusinesServices\\IBusinesServices.csproj": {
+              "projectPath": "E:\\project\\local\\GitHub\\.NetCore.Common.Examples\\IBusinesServices\\IBusinesServices.csproj"
             }
           }
         }
